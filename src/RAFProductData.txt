@@ -1,0 +1,5 @@
+000001 , Pipeweed                           ,Long Bottom Leaf                                                           ,600.00
+000002 , Lembas                             ,Elven Wayfare Bread                                                        ,200.00
+000003 , Wine                               ,Woodland Elf Wine                                                          ,400.00
+000004 , Mushrooms                          ,Farmer Took's Finest                                                       ,125.00
+000005 , Mithril                            ,Enchanted Dwarven Armor                                                    ,3000.00
