@@ -8,11 +8,10 @@
 
 <h1>Execution</h1>
 
-<h3>Enter product information and add it to the record</h3>
+<h3>Enter product information to add it to the record</h3>
 <img width="600" alt="Screen Shot 2022-06-29 at 5 58 26 PM" src="https://user-images.githubusercontent.com/94927484/176552763-9175e4cf-9de9-4f9f-80bd-5d36b2b43fd0.png">
 <h3>Search record for product(s)</h3>
 <img width="600" alt="Screen Shot 2022-06-29 at 5 59 42 PM" src="https://user-images.githubusercontent.com/94927484/176552928-8c117b11-06be-4c2b-94a5-05365721940a.png">
-
 
 <h1>Built With</h1>
 <li>Java</li>
